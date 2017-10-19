@@ -21,7 +21,7 @@ The splash page for the site contains the name of the site, potentially a sub-ti
 **User Actions:**
 * Click: start button
 
-** 2nd Gen:**
+**2nd Gen:**
 * Animation on the logos 
 
 ### Progress Bar
