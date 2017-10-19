@@ -25,7 +25,7 @@ The splash page for the site contains the name of the site, potentially a sub-ti
 ### 2nd Gen:
 * Animation on the logos 
 
-##Progress Bar
+## Progress Bar
 At the top or bottom of every page following the splash is a color-coded progress bar to visualize the user’s progress. Each section of the site is represented by a different color, and page progress appears within or bookends the bar.
 
 ### Key Components:
