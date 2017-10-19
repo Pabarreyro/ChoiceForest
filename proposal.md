@@ -92,7 +92,7 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 * __set_idX_idY__: number of times bundleX has appeared with bundleY in a choice set
 
 ### Experimental Database
-* __user_id__: identifier for respondent
+* __user_id__: primary key for respondent
 * __start_time__: time recorded at experiment start
 * __choice_set__: instance of choice set presented to respondent
 * __option_A__: randomly assigned attribute bundle in a certain choice set (bundle_id)
