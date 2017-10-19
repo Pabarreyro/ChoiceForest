@@ -105,7 +105,7 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 # Technical Components
 ### Essential Logic
 * Method for checking frequency of bundle appearance, either in terms of generic sets or distinct pairs
-* Method for assigning bundles to choice sets based on relative past appearance, initially by weighted random sampling with replacement
+* Method for randomly assigning bundles to choice sets based on relative past appearance, initially by weighted random sampling with replacement
 
 ### Other Specifications
 * Program to render pages, gather user input, and pass data back to server
