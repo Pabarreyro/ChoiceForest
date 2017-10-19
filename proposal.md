@@ -119,6 +119,8 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 - [ ] Build site interactivity (20 hrs, moderate)
 - [ ] Maintain documentation and ReadMe (4 hrs, easy)
 
+_Note_: The estimated time for completion show above are conservative.
+
 ### Further Work
 In the event that all 2nd gen features are completed ahead of schedule, the next phase is to begin building a researcher interface with dashboard-style data outputs for descriptive statistics, marginal willingness to pay and price elasticity of demand for each tested attribute.
 
