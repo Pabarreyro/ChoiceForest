@@ -1,5 +1,5 @@
 # Product Overview
-## Product Summary
+## Summary
 This site deploys a discrete choice experiment (choice experiment). The point of a choice experiment is to uncover how individuals value certain attributes of a program, product or service by asking them to choose between different hypothetical arrangements of those attributes (_a.ka._, bundles). In many instances, choice experiments are used to understand how much individuals are willing to pay for something that does not have a market value. The experiment presented in this site is one such instance, focusing on attributes associated with a major urban forested park in Portland, OR. The intended user interacts with this site primarily as a subject of the experiment, and therefore only visits it once.
 
 ## Working Product Names
