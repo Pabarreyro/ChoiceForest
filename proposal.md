@@ -97,10 +97,10 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 * __choice_set__: instance of choice set presented to respondent
 * __option_A__: randomly assigned attribute bundle in a certain choice set (bundle_id)
 * __option_B__: randomly assigned attribute bundle in a certain choice set (bundle_id)
-* __choice__: respondent’s stated preferred choice in
+* __choice__: respondent’s stated preferred choice in a certain set
 * __end_time__: time recorded at end of experiment
-* __[fund_option]__: placeholder for each column assigned to allocation question
-* __[questionnaire_field]__: placeholder for each column assigned to each questionnaire field
+* __[fund_option]__: placeholder for each column assigned to allocation question in questionnaire
+* __[questionnaire_field]__: placeholder for each column assigned to each of the other questionnaire fields
 
 # Technical Components
 ### Essential Logic
