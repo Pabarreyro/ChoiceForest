@@ -40,7 +40,7 @@ The first page of the site is an introduction to the study, Forest Park, the exp
 * Progress bar
 
 **Key Actions/Effects:**
-* Click/slide: panel tabs or responsive slider
+* Click/slide: panel tabs or responsive slider; photo thumbnails
 
 **2nd Gen:**
 * Pop-up boxes for more detailed explanations of key words or technical information 
