@@ -11,8 +11,8 @@ This site deploys a discrete choice experiment (choice experiment). The point of
 * Atreebute
 
 # Specific Functionality
-### Splash Page 
-The splash page for the site contains the name of the site, potentially a sub-title for the experiment, and the logos/names of experimental collaborators.
+### Landing Page 
+The landing page for the site contains the name of the site, potentially a sub-title for the experiment, and the logos/names of experimental collaborators.
 
 **Key Components:**
 * Title, subtitle, logos
