@@ -93,6 +93,7 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 
 ### Respondent Database
 * __user_id__: primary key for respondent
+* __consent__: boolean for respondent consent to study terms
 * __start_time__: time recorded at experiment start
 * __choice_set__: instance of choice set presented to respondent
 * __option_A__: randomly assigned attribute bundle in a certain choice set (bundle_id)
