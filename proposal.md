@@ -80,7 +80,7 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 * Alert: for unanswered mandatory questions
 
 # Data Model
-### Bundle Database
+### Choice Set Database
 * __bundle_id__: primary key for each tested bundle
 * __forest__: level for forest restoration attribute within each bundle
 * __education__: level for educational programs attribute within each bundle
@@ -91,7 +91,7 @@ The final section of this site contains a questionnaire of roughly 30 questions.
 * __sets__: number of sets in which each bundle has appeared
 * __set_idX_idY__: number of times bundleX has appeared with bundleY in a choice set
 
-### Experimental Database
+### Respondent Database
 * __user_id__: primary key for respondent
 * __start_time__: time recorded at experiment start
 * __choice_set__: instance of choice set presented to respondent
